@@ -46,7 +46,7 @@ Understanding the geographical distribution of property sale values, along with 
 This graph shows the 8 most expensive towns in Connecticut. From the graph we can see there are clear differences in sale value depending on which town the sale occurred.
 
 We can conclude that there appears to be a relationship between certain towns and median sale amounts.
-
+ 
 ### Map of Connecticut
 
 From this map we can see that there is an increased sale amount in the southwestern region.
